@@ -5,5 +5,3 @@
 PS: For people who speak English, I put a .txt that contains the same code but with annotations in English, I hope you enjoy it and it helps you.
 
 VIDEO PREVIEW: https://streamable.com/mdukv0
-
-https://cdn.discordapp.com/attachments/1052375465899331604/1262246667067854889/image.png?ex=6695e650&is=669494d0&hm=1de08c7b3462c4c4d4bdb74f76bf5360f482712480f36ccaee3a7f9b4a7f205f&
