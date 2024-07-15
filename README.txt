@@ -5,3 +5,4 @@
 PS: For people who speak English, I put a .txt that contains the same code but with annotations in English, I hope you enjoy it and it helps you.
 
 VIDEO PREVIEW: https://streamable.com/mdukv0
+https://imgur.com/0nfgaxS
